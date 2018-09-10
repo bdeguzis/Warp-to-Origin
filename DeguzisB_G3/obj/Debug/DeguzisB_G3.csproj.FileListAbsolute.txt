@@ -1,0 +1,146 @@
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\app.info
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\shaders\Sprite.cgx
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\app.exe
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\System.Json.dll
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\System.Xml.dll
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\System.Runtime.Serialization.dll
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\System.Core.dll
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\System.ServiceModel.Web.dll
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\System.ServiceModel.dll
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\app.exe.mdb
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\enemybullet.png
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\enemyship.PNG
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\laser.png
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\missle2.PNG
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\powerupspreadsmall.PNG
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\starshipsmall.png
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Sounds\enginesound.wav
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Sounds\enginesound2.wav
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Sounds\gamebgm.mp3
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\gamestart.PNG
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\highscores.PNG
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\instructions.PNG
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\game1back_2.png
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\planetsback2_2.png
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\pause.PNG
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\dead.PNG
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\app.info
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\shaders\Sprite.cgx
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\app.exe
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\System.Json.dll
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\System.Xml.dll
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\System.Runtime.Serialization.dll
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\System.Core.dll
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\System.ServiceModel.Web.dll
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\System.ServiceModel.dll
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\app.exe.mdb
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\enemybullet.png
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\enemyship.PNG
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\laser.png
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\missle2.PNG
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\powerupspreadsmall.PNG
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\starshipsmall.png
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Sounds\enginesound.wav
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Sounds\enginesound2.wav
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Sounds\gamebgm.mp3
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\gamestart.PNG
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\highscores.PNG
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\instructions.PNG
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\game1back_2.png
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\planetsback2_2.png
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\pause.PNG
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\dead.PNG
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3.psdp
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\obj\Debug\shaders\shaders\Sprite.cgx
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\obj\Debug\convertedpdb\app.exe.mdb
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\obj\Debug\app.exe
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\obj\Debug\app.pdb
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Sounds\explosion.wav
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Sounds\misslelaunch.wav
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Sounds\explosion.wav
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Sounds\misslelaunch.wav
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Sounds\se_tan00.wav
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Sounds\se_tan00.wav
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\enemyshipblue.PNG
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\enemyshipgreen.PNG
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\enemyshipblue.PNG
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\enemyshipgreen.PNG
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Sounds\RomanticFall.mp3
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Sounds\RomanticFall.mp3
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\credits.PNG
+C:\Users\Brian\Documents\Projects\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\credits.PNG
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\app.info
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\shaders\Sprite.cgx
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\app.exe
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\System.Json.dll
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\System.Xml.dll
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\System.Runtime.Serialization.dll
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\System.Core.dll
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\System.ServiceModel.Web.dll
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\System.ServiceModel.dll
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\app.exe.mdb
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\enemybullet.png
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\enemyship.PNG
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\laser.png
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\missle2.PNG
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\powerupspreadsmall.PNG
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\starshipsmall.png
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Sounds\enginesound.wav
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Sounds\enginesound2.wav
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Sounds\gamebgm.mp3
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\gamestart.PNG
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\highscores.PNG
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\instructions.PNG
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\game1back_2.png
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\planetsback2_2.png
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\pause.PNG
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\dead.PNG
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Sounds\explosion.wav
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Sounds\misslelaunch.wav
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Sounds\se_tan00.wav
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\enemyshipblue.PNG
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\enemyshipgreen.PNG
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Sounds\RomanticFall.mp3
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-unsigned\Application\Assets\credits.PNG
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\app.info
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\shaders\Sprite.cgx
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\app.exe
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\System.Json.dll
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\System.Xml.dll
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\System.Runtime.Serialization.dll
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\System.Core.dll
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\System.ServiceModel.Web.dll
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\System.ServiceModel.dll
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\app.exe.mdb
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\enemybullet.png
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\enemyship.PNG
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\laser.png
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\missle2.PNG
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\powerupspreadsmall.PNG
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\starshipsmall.png
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Sounds\enginesound.wav
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Sounds\enginesound2.wav
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Sounds\gamebgm.mp3
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\gamestart.PNG
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\highscores.PNG
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\instructions.PNG
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\game1back_2.png
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\planetsback2_2.png
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\pause.PNG
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\dead.PNG
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Sounds\explosion.wav
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Sounds\misslelaunch.wav
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Sounds\se_tan00.wav
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\enemyshipblue.PNG
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\enemyshipgreen.PNG
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Sounds\RomanticFall.mp3
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3-signed\Application\Assets\credits.PNG
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\bin\Debug\DeguzisB_G3.psdp
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\obj\Debug\shaders\shaders\Sprite.cgx
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\obj\Debug\convertedpdb\app.exe.mdb
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\obj\Debug\app.exe
+C:\Users\User\Documents\Projects - old\DeguzisB_G3\DeguzisB_G3\obj\Debug\app.pdb

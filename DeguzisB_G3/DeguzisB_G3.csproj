@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.0</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6377FF6B-7947-4C34-943F-E0915230C399}</ProjectGuid>
+    <ProjectTypeGuids>{69878862-DA7D-4DC6-B0A1-50D8FAB4242F};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>DeguzisB_G3</RootNamespace>
+    <AssemblyName>DeguzisB_G3</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>none</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="Sce.PlayStation.Core" />
+    <Reference Include="Sce.PlayStation.HighLevel.UI" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AppMain.cs" />
+    <Compile Include="Bouncing_Enemy.cs" />
+    <Compile Include="Enemy.cs" />
+    <Compile Include="EnemyBullet.cs" />
+    <Compile Include="Laser.cs" />
+    <Compile Include="Missle.cs" />
+    <Compile Include="Normal_Enemy.cs" />
+    <Compile Include="Pickup.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="Random_Enemy.cs" />
+    <Compile Include="SpreadGun.cs" />
+    <Compile Include="Sprite.cs" />
+    <Compile Include="Weapon.cs" />
+    <Compile Include="Background.cs" />
+    <Compile Include="BackgroundPlanets.cs" />
+    <Compile Include="MenuDisplay.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ShaderProgram Include="shaders\Sprite.fcg" />
+    <ShaderProgram Include="shaders\Sprite.vcg" />
+  </ItemGroup>
+  <ItemGroup>
+    <PsmMetadata Include="app.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Sce\Sce.Psm.CSharp.targets" />
+  <ItemGroup>
+    <Folder Include="Assets\" />
+    <Folder Include="Sounds\" />
+    <Folder Include="bin\Debug\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\enemybullet.png" />
+    <Content Include="Assets\enemyship.PNG" />
+    <Content Include="Assets\laser.png" />
+    <Content Include="Assets\missle2.PNG" />
+    <Content Include="Assets\powerupspreadsmall.PNG" />
+    <Content Include="Assets\starshipsmall.png" />
+    <Content Include="Sounds\enginesound.wav" />
+    <Content Include="Sounds\enginesound2.wav" />
+    <Content Include="Sounds\gamebgm.mp3" />
+    <Content Include="Assets\gamestart.PNG" />
+    <Content Include="Assets\highscores.PNG" />
+    <Content Include="Assets\instructions.PNG" />
+    <Content Include="Assets\game1back_2.png" />
+    <Content Include="Assets\planetsback2_2.png" />
+    <Content Include="Assets\pause.PNG" />
+    <Content Include="Assets\dead.PNG" />
+    <Content Include="Sounds\explosion.wav" />
+    <Content Include="Sounds\misslelaunch.wav" />
+    <Content Include="Sounds\se_tan00.wav" />
+    <Content Include="Assets\enemyshipblue.PNG" />
+    <Content Include="Assets\enemyshipgreen.PNG" />
+    <Content Include="Sounds\RomanticFall.mp3" />
+    <Content Include="Assets\credits.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Sounds\enginesoundedit.aup" />
+    <None Include="Sounds\enginesoundedit_data\e00\d00\e0000a37.au" />
+    <None Include="Sounds\enginesoundedit_data\e00\d00\e0000c8c.au" />
+  </ItemGroup>
+</Project>
